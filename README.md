@@ -9,6 +9,7 @@ Mapa interactivo del primer piso de la facultad que toma en cuenta las entradas 
 - Matias Miyawaki
 - Walter Lin
 - Lizbeth Sanchez
+- Brenda Morinigo
 
 ## Tecnologías utilizadas
 
