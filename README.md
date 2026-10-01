@@ -6,7 +6,6 @@ Mapa interactivo del primer piso de la facultad que toma en cuenta las entradas 
 
 ## Integrantes
 
-- Aby Sequeiros
 - Matias Miyawaki
 - Walter Lin
 - Lizbeth Sanchez
